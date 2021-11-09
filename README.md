@@ -1,7 +1,7 @@
 Hello Reader!
 
 I am Zane Ali, a graduate in BSc. (Hons) Physics with Computer Science from the University of Birmingham and an aspiring Software Engineer.
-I have project experience in object-oriented programming, numerical analysis and signal processing; some of which have been uploaded to this Github profile.
+I have project experience in object-oriented programming, numerical analysis and signal processing; some of which you will see in this Github profile.
 My technical strengths include Java, Matlab, SQL and LaTeX and I have strong quantitative skills from the Physics in my degree. 
 
 I have interned with the Foreign and Commonwealth Office, a social entrepeneurship and a university technology transfer hub,
