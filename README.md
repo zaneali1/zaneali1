@@ -1,4 +1,4 @@
-Hello reader!
+Hello Reader!
 
 I am Zane Ali, a graduate in BSc. (Hons) Physics with Computer Science from the University of Birmingham and an aspiring Software Engineer.
 I have project experience in object-oriented programming, numerical analysis and signal processing, and my technical strengths 
