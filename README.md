@@ -1,6 +1,6 @@
 Hi,
 
-I am Zane Ali, a graduate in BSc. Physics with Computer Science from the University of Birmingham and an aspiring Software Engineer.
+I am Zane Ali, a graduate in BSc. (Hons) Physics with Computer Science from the University of Birmingham and an aspiring Software Engineer.
 I have completed projects in object oriented programming, numerical analysis and signal processing, and my technical strengths 
 include Java, Matlab and SQL. 
 
