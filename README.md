@@ -1,13 +1,10 @@
 Hello Reader!
 
 I am Zane Ali, a software engineer and graduate in BSc. (Hons) Physics with Computer Science from the University of Birmingham.
-I have project experience in object-oriented programming, numerical analysis and signal processing; some of which you will see in this Github profile. 
+I have project experience in FIX Trading software, numerical analysis and signal processing; some of which you will see in this Github profile. 
 My technical strengths include Java, MATLAB, SQL, TCL and LaTeX and I have strong quantitative skills from the Physics in my degree. 
 
-I have interned with the Foreign and Commonwealth Office, a social entrepeneurship and a university technology transfer hub,
-preparing me for any project-management or client-facing elements of a graduate role. 
-
-You can find more details on my experience https://www.linkedin.com/in/zaneali1/ and you can contact me on zxa507@alumni.bham.ac.uk.
+You can find more details on my LinkedIn page https://www.linkedin.com/in/zaneali1/.
 
 Thank you for visiting!
 
